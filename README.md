@@ -71,6 +71,8 @@ Cleanliness is rated best by professional companies.
 ## Acknowledgements
 I would like to thank Kaggle and Airbnb for providing the dataset, as well as Udacity for the support.
 
+Thanks also to https://www.cleanpng.com/ for providing the picture of the seattle skyline.
+
 ## References
 https://seaborn.pydata.org/generated/seaborn.FacetGrid.html
 
@@ -81,4 +83,6 @@ https://stackoverflow.com/questions/55104819/display-count-on-top-of-seaborn-bar
 https://stackoverflow.com/questions/51891370/draw-a-line-at-specific-position-annotate-a-facetgrid-in-seaborn
 
 https://forecastegy.com/posts/feature-importance-in-random-forests/
+
+https://www.cleanpng.com/png-space-needle-clip-art-needle-812378/
 
