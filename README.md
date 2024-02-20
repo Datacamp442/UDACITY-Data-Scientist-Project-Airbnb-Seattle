@@ -66,7 +66,7 @@ Cleanliness is rated best by professional companies.
 - If you compare the features host respose time and cancellation policy with the average price, the accommodations with a strict policy achieve a higher price on average, but if you allow several hours to answer a request, this is an indication of a lower priced accommodation. Both features seem to be relevant to the price assessment, but in different directions.
 
 ## Medium blog post
-
+https://medium.com/@datacamp442/airbnb-seattle-hosts-the-stereotype-of-chatty-women-and-messy-men-670fc697abc2
 
 ## Acknowledgements
 I would like to thank Kaggle and Airbnb for providing the dataset, as well as Udacity for the support.
